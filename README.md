@@ -6,7 +6,8 @@ Uma tela simples de cadastro de usuários com comunicação direta com o banco d
 
 ## Funcionamento da aplicação 
 
-[![Watch the video]()](https://github.com/Jao-Rocha/CRUD--FullStack/blob/main/assets-to-readme/crud.mp4)
+[![Watch the video]()](https://youtu.be/9Ao10Gl1Vgc)
+(https://github.com/Jao-Rocha/CRUD--FullStack/blob/main/assets-to-readme/crud.mp4)
 
 
 # Tecnologias utilizadas
